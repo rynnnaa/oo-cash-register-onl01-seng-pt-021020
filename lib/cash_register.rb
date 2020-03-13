@@ -25,6 +25,8 @@ class CashRegister
   end
   
   def items 
+    @times
+  end
     
 end
 
