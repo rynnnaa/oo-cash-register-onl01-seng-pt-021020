@@ -24,7 +24,7 @@ class CashRegister
     end
   end
   
-  def void_las
+  def items 
     
 end
 
