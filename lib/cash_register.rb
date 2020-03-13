@@ -24,6 +24,7 @@ class CashRegister
     end
   end
   
-
+  def void_las
+    
 end
 
